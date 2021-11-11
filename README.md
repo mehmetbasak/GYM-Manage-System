@@ -1,2 +1,2 @@
 # GYM-Management-System
-Gym Manager
+Gym Management In Java ( JFrame - Mysql ) 
