@@ -1,2 +1,2 @@
-# GYM-Manage-System
+# GYM-Management-System
 Gym Manager
