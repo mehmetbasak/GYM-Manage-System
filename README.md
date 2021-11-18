@@ -10,6 +10,13 @@ First of all , dowload two material at below.
 
 
 
+
+
+I just created " Payment " interface. I did not connect with DB. 
+
+
+
+
 Create Database whic is name  " gymdb " 
 
 Create three table  whic are name  " coachTbl "  ,  " financeTbl " , " memberTbl " 
