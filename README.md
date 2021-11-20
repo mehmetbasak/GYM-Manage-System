@@ -1,5 +1,7 @@
 # GYM-Management-System
 <p dir="auto">Gym Management In Java ( JFrame - Mysql )</p>
+<p dir="auto">Gym Management enable you to manage your coach and members.How many members do you have and coachs,and also which member has which coach.
+</p>
 <p dir="auto">First of all , dowload two material at below.</p>
 <p dir="auto">&nbsp;</p>
 <p dir="auto"><strong>1- JCalendar&nbsp;</strong>-<a href="http://www.java2s.com/Code/Jar/j/Downloadjcalendar14jar.htm" rel="nofollow">http://www.java2s.com/Code/Jar/j/Downloadjcalendar14jar.htm</a></p>
